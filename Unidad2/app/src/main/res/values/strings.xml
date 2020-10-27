@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Unidad 2</string>
+    <string name="action_settings">Tutoriales</string>
+    <string name="opcion_2">julioprofe</string>
+    <string name="opcion_1">Crea tu propia calculadora</string>
+    <string name="noche">Noche</string>
+    <string name="dia">Dia</string>
+    <string name="salir">Salir</string>
+    <string name="suma">+</string>
+    <string name="resta">-</string>
+    <string name="multi">*</string>
+    <string name="div">/</string>
+</resources>
